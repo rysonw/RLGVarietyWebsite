@@ -2,8 +2,8 @@ export const sliderItems = [
     {
       id: 1,
       img: "./images/slider1.png",
-      title: "WELCOME!",
-      desc: "PLEASE TAKE A LOOK AT OUR WARES!",
+      title: "WELCOME! 🌺",
+      desc: "FEEL FREE TO BROWSE OUR VARIETY OF GOODS!",
       bg: "fcf6ed", //Color
     },
     {
@@ -17,7 +17,7 @@ export const sliderItems = [
       id: 3,
       img: "https://i.ibb.co/cXFnLLV/3.png",
       title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      desc: " CHECK OUT OUR NEW ARRIVALS FOR THE PERFECT PAJAMAS.",
       bg: "fbf0f4",
     },
   ];
@@ -25,20 +25,20 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "./images/letter_necklace.jpg",
+      title: "LETTER NECKLACES!",
       cat:"women"
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "./images/nuwa_bangle.jpg",
+      title: "BANGLES",
       cat:"coat"
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "./images/bamboo_necklace.jpg",
+      title: "BAMBOO NECKLACES",
       cat:"jeans"
     },
   ];

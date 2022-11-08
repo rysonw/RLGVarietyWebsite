@@ -98,7 +98,7 @@ const Footer = () => {
               <Facebook />
             </SocialIcon>
           </a>
-          <a href="https://www.facebook.com/RLGvariety/">
+          <a href="https://instagram.com/rlg_variety?igshid=YmMyMTA2M2Y=">
             <SocialIcon color="E4405F">
               <Instagram />
             </SocialIcon>
@@ -109,13 +109,13 @@ const Footer = () => {
         <Title>Useful Links</Title>
         <List>
           <ListItem>Home</ListItem>
-          <ListItem>Bracelets</ListItem>
-          <ListItem>Necklaces</ListItem>
           <ListItem>Earrings</ListItem>
+          <ListItem>Necklaces</ListItem>
+          <ListItem>Bracelets</ListItem>
           <ListItem>Anklets</ListItem>
           <ListItem>Apparel</ListItem>
           <ListItem>Healing Stones</ListItem>
-          <ListItem></ListItem>
+          <ListItem>Accesories</ListItem>
         </List>
       </Center>
       <Right>

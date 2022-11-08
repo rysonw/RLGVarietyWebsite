@@ -74,7 +74,6 @@ const Navbar = () => {
     <Container>
       <Wrapper>
         <Left>
-          <Language>EN</Language>
           <SearchContainer>
             <Input placeholder="Search" />
             <Search style={{ color: "gray", fontSize: 16 }} />
@@ -84,8 +83,8 @@ const Navbar = () => {
           <Logo>RLG Variety.</Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN IN</MenuItem>
+          {/* <MenuItem>REGISTER</MenuItem>
+          <MenuItem>SIGN IN</MenuItem> */}
         </Right>
       </Wrapper>
     </Container>
