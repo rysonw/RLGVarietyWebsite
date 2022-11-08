@@ -1,7 +1,7 @@
 {
   "name": "new",
   "version": "0.1.0",
-  "homepage": "rysonw.github.io",
+  "homepage": "https://rysonw.github.io/RLGVarietyWebsite",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
