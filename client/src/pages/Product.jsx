@@ -1,6 +1,6 @@
 import { Add, Remove } from "@material-ui/icons";
 import styled from "styled-components";
-import Announcement from "../components/Announcement";
+import Statement from "../components/Statement";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Newsletter from "../components/Newsletter";
@@ -155,7 +155,7 @@ const Product = () => {
   return (
     <Container>
       <Navbar />
-      <Announcement />
+      <Statement />
       <Wrapper>
         <ImgContainer>
           <Image src={product.img} />

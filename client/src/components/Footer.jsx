@@ -88,54 +88,47 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>LAMA.</Logo>
+        <Logo>RLG Variety.</Logo>
         <Desc>
-          There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don’t look even slightly believable.
+          We are a locally owned and operated business based out of Hawaii. We sell a variety of products from clothing to jewelry. We are always looking to expand our product line and are always looking for new products to sell. If you have any questions or concerns please feel free to contact us.
         </Desc>
         <SocialContainer>
-          <SocialIcon color="3B5999">
-            <Facebook />
-          </SocialIcon>
-          <SocialIcon color="E4405F">
-            <Instagram />
-          </SocialIcon>
-          <SocialIcon color="55ACEE">
-            <Twitter />
-          </SocialIcon>
-          <SocialIcon color="E60023">
-            <Pinterest />
-          </SocialIcon>
+          <a href="https://www.facebook.com/RLGvariety/">
+            <SocialIcon color="3B5999" >
+              <Facebook />
+            </SocialIcon>
+          </a>
+          <a href="https://www.facebook.com/RLGvariety/">
+            <SocialIcon color="E4405F">
+              <Instagram />
+            </SocialIcon>
+          </a>
         </SocialContainer>
       </Left>
       <Center>
         <Title>Useful Links</Title>
         <List>
           <ListItem>Home</ListItem>
-          <ListItem>Cart</ListItem>
-          <ListItem>Man Fashion</ListItem>
-          <ListItem>Woman Fashion</ListItem>
-          <ListItem>Accessories</ListItem>
-          <ListItem>My Account</ListItem>
-          <ListItem>Order Tracking</ListItem>
-          <ListItem>Wishlist</ListItem>
-          <ListItem>Wishlist</ListItem>
-          <ListItem>Terms</ListItem>
+          <ListItem>Bracelets</ListItem>
+          <ListItem>Necklaces</ListItem>
+          <ListItem>Earrings</ListItem>
+          <ListItem>Anklets</ListItem>
+          <ListItem>Apparel</ListItem>
+          <ListItem>Healing Stones</ListItem>
+          <ListItem></ListItem>
         </List>
       </Center>
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
+          <Room style={{marginRight:"10px"}}/> Ewa Beach, HI
         </ContactItem>
         <ContactItem>
-          <Phone style={{marginRight:"10px"}}/> +1 234 56 78
+          <Phone style={{marginRight:"10px"}}/> +1 808 428 0492
         </ContactItem>
         <ContactItem>
-          <MailOutline style={{marginRight:"10px"}} /> contact@lama.dev
+          <MailOutline style={{marginRight:"10px"}} /> rlg393@yahoo.com
         </ContactItem>
-        <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
     </Container>
   );

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Container = styled.div`
   height: 30px;
-  background-color: teal;
+  background-color: BLACK;
   color: white;
   display: flex;
   align-items: center;
@@ -11,8 +11,8 @@ const Container = styled.div`
   font-weight: 500;
 `;
 
-const Announcement = () => {
-  return <Container>Super Deal! Free Shipping on Orders Over $50</Container>;
+const Statement = () => {
+  return <Container>Website Built and Maintained by Ryson Wong ⓒ 2022</Container>;
 };
 
-export default Announcement;
+export default Statement;
