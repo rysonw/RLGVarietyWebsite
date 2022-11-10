@@ -1,0 +1,3 @@
+# RLGVarietyWebsite
+
+Hosted @ rlgvariety.com
